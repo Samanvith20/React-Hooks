@@ -1,0 +1,31 @@
+/* styles.css */
+
+.MainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center vertically and horizontally */
+    padding: 20px;
+    height: 200px; /* You can adjust the height as needed */
+    background-color: #f0f0f0; /* Optional: Add a background color */
+  }
+  
+  .NameInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .MsgContent {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .NameText {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
